@@ -1,0 +1,19 @@
+# package directories
+node_modules
+.build
+.serverless
+.webpack
+jspm_packages
+
+# Serverless directories
+.serverless
+coverage
+
+#test files
+junit.xml
+
+.eslintcache
+config/.dev.env.json
+
+#Yarn files
+yarn-error.log
